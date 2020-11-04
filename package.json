@@ -1,0 +1,20 @@
+{
+  "name": "goit-js-hm-11-promise",
+  "version": "1.0.0",
+  "description": "Завдання 1 Напиши функцію delay(ms), яка повертає проміс, що переходить в стан\r \"resolved\" через ms мілісекунд. Значенням промісу, яке виповнилося має бути та\r кількість мілісекунд, яку передали під час виклику функції delay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorozOleh/goit-js-hm-11-promise.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MorozOleh/goit-js-hm-11-promise/issues"
+  },
+  "homepage": "https://github.com/MorozOleh/goit-js-hm-11-promise#readme"
+}
